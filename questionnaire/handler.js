@@ -9,7 +9,7 @@ module.exports.getQuestionnaire = (event, context, callback) => {
     let json;
 
     const response = {
-        statusCode: 200,
+        statusCode: 200
     };
 
     console.log("Getting s3 object");
@@ -20,11 +20,15 @@ module.exports.getQuestionnaire = (event, context, callback) => {
             console.log("Got s3 object", data);
             json = JSON.parse(new Buffer(data.Body).toString("utf8"));
             console.log("JSON", json);
-            response.body = JSON.stringify(json);
+            const qs = json.questions;
+            const parsed = {
+                questions: qs.map(q => {
+                    return {question: q.question, answers: q.answers}
+                })
+            };
+            response.body = JSON.stringify(parsed);
             return callback(null, response);
         })
-        //.then(() => {
-        //})
         .catch(err => {
             return callback(err);
         });
