@@ -1,0 +1,188 @@
+{
+  "questions": [
+    {
+      "question": "Do you believe in meteorological predictions?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Do you believe in astrological predictions?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Do you gaze at the sky and stars by night?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Are you afraid?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Have you ever been lost?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Do you believe in ghosts?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Have you done something weird today or in the last few days?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Have you ever been to confession?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Do you believe in redemption?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Have you dreamed tonight?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Do you remember your dreams?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Do you believe in animals that don’t exist?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Are you mad?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Do you believe in the existence of secret societies?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Would you like to live in a castle?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Have you seen something weird today?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Would you like to live in an abandoned train station?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Can you see the future?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Have you considered living abroad?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Which do you like better, globes or hourglasses?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Which do you like better, antique magnifying glasses or bladed weapons?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Do you like walking in the rain?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    },
+    {
+      "question": "Do you like walking in graveyards or the woods by night?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "correct-answer": "yes"
+    }
+  ]
+}
